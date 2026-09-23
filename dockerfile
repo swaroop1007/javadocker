@@ -4,4 +4,3 @@ COPY  . /app
 RUN javac Sample.java
 CMD ["java","Sample"]
  
-~
